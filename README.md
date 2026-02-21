@@ -83,6 +83,7 @@ var harshita = {
 
 ```yaml
 email: rajputharshita010@gmail.com
+resume: https://drive.google.com/file/d/14BNd_EkvvioDVeKiFjUO_T8j1HQ8ZHG2/view?usp=sharing
 ```
 
 ---
